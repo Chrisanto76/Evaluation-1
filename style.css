@@ -1,3 +1,5 @@
+
+
 html {
   box-sizing: border-box;
   width: 100vw;
@@ -5,7 +7,6 @@ html {
   /* font-family: "Courier New", Courier, monospace; */
 }
 /* style des titres h1*/
-
 
 h1 {
   position: relative;
@@ -24,7 +25,6 @@ h1 {
   font-family: "Courier New", Courier, monospace;
 }
 
-
 /* style et police de la page événements*/
 .breadnav {
   background-color: grey;
@@ -36,20 +36,27 @@ footer,
   font-family: "Courier New", Courier, monospace;
 }
 
-
 /*couleur attribuée aux cartes de l'index.html*/
 .card-body {
   background-color: seashell;
 }
 
-/* bg de la classe montana */ 
+/* bg de la classe montana */
 
 #montana {
   background-color: beige;
 }
-.flag, .gmap {
+.flag,
+.gmap {
   height: 450px;
   width: 600px;
   border-radius: 10px;
-
 }
+/* @media screen and (min-width: 992px) {
+  h1 {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+} */
+/* @media screen and (min-width: 992px) { */
+ 
