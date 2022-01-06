@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+  width: 100vw;
+  font-size: 16px;
+  /* font-family: "Courier New", Courier, monospace; */
+}
+/* style des titres h1*/
+
+
+h1 {
+  position: relative;
+  text-align: center;
+  font-size: 3em;
+  color: lightgrey;
+  top: 80%;
+  font-family: "Courier New", Courier, monospace;
+}
+#july {
+  position: relative;
+  text-align: center;
+  font-size: 3em;
+  color: lightgrey;
+  top: 20%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+
+/* style et police de la page événements*/
+.breadnav {
+  background-color: grey;
+}
+.breadcrumb,
+.card,
+footer,
+.navbar {
+  font-family: "Courier New", Courier, monospace;
+}
+
+
+/*couleur attribuée aux cartes de l'index.html*/
+.card-body {
+  background-color: seashell;
+}
+
+/* bg de la classe montana */ 
+
+#montana {
+  background-color: beige;
+}
+.flag, .gmap {
+  height: 450px;
+  width: 600px;
+  border-radius: 10px;
+
+}
